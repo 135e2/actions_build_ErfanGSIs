@@ -61,7 +61,7 @@ jobs:
        - name: Upload GSI to GoFile
          run: |
               curl -sL https://git.io/file-transfer | sh
-              ./transfer cot final/GSI.zip
+              ./transfer wet final/GSI.zip
 
 
          
