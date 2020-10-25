@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://dl.google.com/dl/android/aosp/walleye-qq3a.200805.001-factory-a3367352.zip
-  ROM_NAME: ResurrectionRemix
+  ROM_NAME: Pixel
   TZ: Asia/Shanghai
 
 jobs:
