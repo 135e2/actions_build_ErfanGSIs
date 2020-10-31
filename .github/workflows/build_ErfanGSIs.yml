@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://pan.o98k.eu.org/Temp/RROS-Q-8.6.3-20201023-lavender-Official.zip
+  ROM_URL: https://netix.dl.sourceforge.net/project/darkjoker360-developements/Huawei/P8%20Lite%202017/Android-10/DarkJoker360_AOSP-10_prague-20201009.zip
   ROM_NAME: Generic
   TZ: Asia/Shanghai
 
