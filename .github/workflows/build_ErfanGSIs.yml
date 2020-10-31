@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://netix.dl.sourceforge.net/project/darkjoker360-developements/Huawei/P8%20Lite%202017/Android-10/DarkJoker360_AOSP-10_prague-20201009.zip
+  ROM_URL: https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MDMyMDc1MjAiLCJ1IjpudWxsLCJsdCI6ImRvd25sb2FkIiwicyI6IjBkYTJkYTY4NjA1MmE2YzVlYzYyMDk3Mzk2NjgxMTkyOGE0OTBmMjEyYWE4MTQxMzQ4NjYxNjZlNTUzNWZhYjczN2I0OTdlMzY3N2NhMmVhZjUwZDFlYTExMjJmMjFjNjFiMmUyMjU1NGNlYTRkZDc1N2I3YWM1MmE0MTlhNTllIiwidCI6MTYwNDE1NTYwMSwic3RmcCI6IjcyYTk5ZDAzMmJjMWRmMzdkZTcwMTg4Njg0NGEwNWIwIiwic3RpcCI6IjExOS4yMzcuNjguMjEzIn0.Qozy1HasY_KTzK-n6Tl7SX7iMEa_R1bMh_qXPmaZ6Eo/ExtendedUI-2.0-R-OFFICIAL-land-20201020-1002.zip009.zip
   ROM_NAME: Generic
   TZ: Asia/Shanghai
 
