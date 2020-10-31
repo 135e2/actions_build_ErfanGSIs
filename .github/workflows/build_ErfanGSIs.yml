@@ -64,8 +64,8 @@ jobs:
          env:
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }} # This token is provided by Actions, you do not need to create your own token
          with:
-          tag_name: ${{ github.ref }}
-          release_name: Release ${{ github.ref }}
+          tag_name: ${{ ROM_NAME }}
+          release_name: Release ${{ ROM_NAME }}
           draft: false
           prerelease: false
        
@@ -73,6 +73,8 @@ jobs:
          uses: johnwbyrd/update-release@v1.0.0
          with:
           token: ${{ secrets.ACCESS_TOKEN }}
+          tag_name: ${{ ROM_NAME }}
+          release_name: Release ${{ ROM_NAME }}
           files: final/GSI.zip
           prerelease: false
          
