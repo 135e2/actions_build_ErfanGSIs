@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://get.derpfest.org/raphael/builds/DerpFest-10-Official-raphael-20201009.zip
+  ROM_URL: https://managedway.dl.sourceforge.net/project/havoc-os/kenzo/Havoc-OS-v3.9-20201105-kenzo-Official.zip
   ROM_NAME: Generic
   TZ: Asia/Shanghai
 
@@ -58,7 +58,7 @@ jobs:
               mkdir final
               zip -r final/GSI.zip /home/runner/work/actions_build_ErfanGSIs/actions_build_ErfanGSIs/ErfanGSIs/output/
 
-       - name: Upload GSI to BitSend
+       - name: Upload GSI to Cowtransfer
          run: |
               curl -sL https://git.io/cowtransfer | sh
               ./cowtransfer-uploader -p 12 final/GSI.zip
