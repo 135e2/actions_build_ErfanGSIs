@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://managedway.dl.sourceforge.net/project/havoc-os/kenzo/Havoc-OS-v3.9-20201105-kenzo-Official.zip
+  ROM_URL: https://cfhcable.dl.sourceforge.net/project/havoc-os/a64-ab/Havoc-OS-v3.8-20200821-Official-GApps-a64-ab.img.xz
   ROM_NAME: Generic
   TZ: Asia/Shanghai
 
