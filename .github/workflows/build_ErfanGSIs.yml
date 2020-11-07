@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://cfhcable.dl.sourceforge.net/project/havoc-os/lilac/Havoc-OS-v3.9-20201018-lilac-Official-GApps.zip
+  ROM_URL: https://netactuate.dl.sourceforge.net/project/extendedui/polaris/ExtendedUI_1.2.1_polaris-10.0-20200621-2134-OFFICIAL.zip
   ROM_NAME: Generic
   TZ: Asia/Shanghai
 
