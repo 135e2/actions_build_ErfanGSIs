@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://nchc.dl.sourceforge.net/project/havoc-os/hotdog/Havoc-OS-v3.11-20201111-hotdog-Official-GApps.zip
+  ROM_URL: https://iweb.dl.sourceforge.net/project/derpfest/miatoll/DerpFest-10-Official-miatoll-20201110.zip
   ROM_NAME: Generic
   TZ: Asia/Shanghai
 
